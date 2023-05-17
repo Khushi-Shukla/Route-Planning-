@@ -1,0 +1,34 @@
+City1,City2,Distance,TollStation
+Guwahati,Rangia,34.5,0
+Guwahati,Mangaldai,44.8,0
+Guwahati,Jagiroad,47.8,3
+Rangia,Udalguri,59,2
+Udalguri,Mazbat,17,0
+Mazbat,Rangapara,35,9
+Rangapara,Biswanath Charali,45.33,0
+Biswanath Charali,Gohpur,48.57,8
+Gohpur,Bihpuria,34.85,2
+Bihpuria,North Lakhimpur,29.37,1
+North Lakhimpur,Gogamukh,31.44,4
+Gogamukh,Dhemaji,24.16,9
+Dhemaji,Silapathar,20.77,2
+Silapathar,Dibrugarh,23.24,5
+Jagiroad,Hojai,69.61,12
+Hojai,Lamding,50.54,0
+Lamding,Diphu,31.92,0
+Diphu,Mariani,124.02,4
+Mariani,Simaluguri,67.45,1
+Simaluguri,Namrup,162.11,0
+Namrup,Naharkatiya,14.35,3
+Naharkatiya,Duliajan,14.61,2
+Duliajan,Bordubi,16.01,1
+Bordubi,Tinsukia,11.2,2
+Tinsukia,Dibrugarh,47.14,1
+Mangaldai,Nagaon,52.6,2
+Nagaon,Bokakhat,95.59,2
+Bokakhat,Dergaon,39.82,1
+Dergaon,Jorhat,21.85,1
+Jorhat,Sibsagar,51.33,2
+Sibsagar,Dimow,17.89,0
+Dimow,Moranhat,18.53,2
+Moranhat,Dibrugarh,32.9,1
